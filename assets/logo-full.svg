@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 180" fill="none" role="img" aria-label="NORVAN">
+  <g fill="currentColor">
+    <path d="M58 108 L82 18 L100 18 L76 108 Z"/>
+    <path d="M78 108 L102 18 L120 18 L96 108 Z" opacity="0.92"/>
+    <text x="100" y="138" text-anchor="middle" font-family="Montserrat, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="0.28em">NORVAN</text>
+    <text x="100" y="158" text-anchor="middle" font-family="Montserrat, Arial, sans-serif" font-size="9" font-weight="500" letter-spacing="0.22em" opacity="0.75">BOOTS FOR THE JOURNEY</text>
+  </g>
+</svg>

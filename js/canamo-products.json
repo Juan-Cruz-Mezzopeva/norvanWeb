@@ -1,0 +1,177 @@
+[
+  {
+    "id": "borcego-norvan-roble",
+    "name": "Borcego Norvan Roble",
+    "image": "assets/products/borcego-norvan-roble.jpg",
+    "description": "Borcego Norvan Roble. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "borcegos"
+  },
+  {
+    "id": "borcego-norvan-negro",
+    "name": "Borcego Norvan Negro",
+    "image": "assets/products/borcego-norvan-negro.jpg",
+    "description": "Borcego Norvan Negro. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "borcegos"
+  },
+  {
+    "id": "borcego-norvan-tostado",
+    "name": "Borcego Norvan Tostado",
+    "image": "assets/products/borcego-norvan-tostado.jpg",
+    "description": "Borcego Norvan Tostado. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "borcegos"
+  },
+  {
+    "id": "borcego-norvan-camel-edicion-limitada",
+    "name": "Borcego Norvan Camel — Edición limitada",
+    "image": "assets/products/borcego-norvan-camel-edicion-limitada.jpg",
+    "description": "Borcego Norvan Camel — Edición limitada. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "borcegos"
+  },
+  {
+    "id": "borcego-negro-milan-con-cierre",
+    "name": "Borcego Negro MILAN con cierre",
+    "image": "assets/products/borcego-negro-milan-con-cierre.jpg",
+    "description": "Borcego Negro MILAN con cierre. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "borcegos"
+  },
+  {
+    "id": "zapatilla-canamo-estilo-urbano-blanca-gris",
+    "name": "Zapatilla Canamo Estilo Urbano Blanca- Gris",
+    "image": "assets/products/zapatilla-canamo-estilo-urbano-blanca-gris.png",
+    "description": "Zapatilla Canamo Estilo Urbano Blanca- Gris. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "zapatillas"
+  },
+  {
+    "id": "dc-negra-cosida-zapatilla-urbana-base-negra",
+    "name": "DC Negra COSIDA Zapatilla URBANA Base Negra",
+    "image": "assets/products/dc-negra-cosida-zapatilla-urbana-base-negra.png",
+    "description": "DC Negra COSIDA Zapatilla URBANA Base Negra. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "zapatillas"
+  },
+  {
+    "id": "londres-negra-cosida-zapatilla-urbana",
+    "name": "Londres Negra COSIDA Zapatilla URBANA",
+    "image": "assets/products/londres-negra-cosida-zapatilla-urbana.png",
+    "description": "Londres Negra COSIDA Zapatilla URBANA. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "zapatillas"
+  },
+  {
+    "id": "combo-nazare-chocolate-tornasolado-cinturon-choco",
+    "name": "COMBO Nazare Chocolate Tornasolado + CINTURON CHOCO",
+    "image": "assets/products/combo-nazare-chocolate-tornasolado-cinturon-choco.jpg",
+    "description": "COMBO Nazare Chocolate Tornasolado + CINTURON CHOCO. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "zapatos"
+  },
+  {
+    "id": "zapato-nazare-marron-chocolate",
+    "name": "Zapato Nazare MARRON CHOCOLATE",
+    "image": "assets/products/zapato-nazare-marron-chocolate.jpg",
+    "description": "Zapato Nazare MARRON CHOCOLATE. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "zapatos"
+  },
+  {
+    "id": "nazare-chocolate-tornasolado",
+    "name": "Nazare Chocolate Tornasolado",
+    "image": "assets/products/nazare-chocolate-tornasolado.jpg",
+    "description": "Nazare Chocolate Tornasolado. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "zapatos"
+  },
+  {
+    "id": "zapatos-botita-tolhuin-acordonado-negro",
+    "name": "Zapatos Botita Tolhuin Acordonado Negro",
+    "image": "assets/products/zapatos-botita-tolhuin-acordonado-negro.jpg",
+    "description": "Zapatos Botita Tolhuin Acordonado Negro. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "zapatos"
+  },
+  {
+    "id": "zapato-holbox-marron",
+    "name": "Zapato HolBox Marron",
+    "image": "assets/products/zapato-holbox-marron.jpg",
+    "description": "Zapato HolBox Marron. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "zapatos"
+  },
+  {
+    "id": "zapato-nazare-negro-base-negra-acordonado",
+    "name": "Zapato Nazare Negro Base Negra acordonado",
+    "image": "assets/products/zapato-nazare-negro-base-negra-acordonado.jpg",
+    "description": "Zapato Nazare Negro Base Negra acordonado. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "zapatos"
+  },
+  {
+    "id": "zapatos-botita-tolhuin-acordonado-marron",
+    "name": "Zapatos Botita Tolhuin Acordonado Marron",
+    "image": "assets/products/zapatos-botita-tolhuin-acordonado-marron.jpg",
+    "description": "Zapatos Botita Tolhuin Acordonado Marron. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "zapatos"
+  },
+  {
+    "id": "zapato-nazare-negro",
+    "name": "Zapato Nazare negro",
+    "image": "assets/products/zapato-nazare-negro.jpg",
+    "description": "Zapato Nazare negro. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "zapatos"
+  },
+  {
+    "id": "cinturon-marron-cuero-vacuno-chocolate-p4",
+    "name": "Cinturon Marron Cuero Vacuno Chocolate P4",
+    "image": "assets/products/cinturon-marron-cuero-vacuno-chocolate-p4.jpg",
+    "description": "Cinturon Marron Cuero Vacuno Chocolate P4. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "accesorios"
+  },
+  {
+    "id": "cinturon-negro-cuero-vacuno",
+    "name": "Cinturon Negro (Cuero Vacuno)",
+    "image": "assets/products/cinturon-negro-cuero-vacuno.jpg",
+    "description": "Cinturon Negro (Cuero Vacuno). Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "accesorios"
+  },
+  {
+    "id": "walker-balance-blanco-gris-zapatilla-urbana",
+    "name": "Walker Balance Blanco Gris Zapatilla Urbana",
+    "image": "assets/products/walker-balance-blanco-gris-zapatilla-urbana.jpg",
+    "description": "Walker Balance Blanco Gris Zapatilla Urbana. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "zapatillas"
+  },
+  {
+    "id": "walker-negra-zapatilla-urbana",
+    "name": "Walker Negra zapatilla Urbana",
+    "image": "assets/products/walker-negra-zapatilla-urbana.jpg",
+    "description": "Walker Negra zapatilla Urbana. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "zapatillas"
+  },
+  {
+    "id": "londres-azul-gamuza-zapatilla",
+    "name": "Londres Azul Gamuza Zapatilla",
+    "image": "assets/products/londres-azul-gamuza-zapatilla.png",
+    "description": "Londres Azul Gamuza Zapatilla. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "zapatillas"
+  },
+  {
+    "id": "zapatillas-londres-blancas",
+    "name": "Zapatillas Londres Blancas",
+    "image": "assets/products/zapatillas-londres-blancas.jpg",
+    "description": "Zapatillas Londres Blancas. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "zapatillas"
+  },
+  {
+    "id": "nautico-kansas-negro-gris-lona",
+    "name": "Nautico Kansas Negro- Gris Lona",
+    "image": "assets/products/nautico-kansas-negro-gris-lona.jpg",
+    "description": "Nautico Kansas Negro- Gris Lona. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "zapatos"
+  },
+  {
+    "id": "n-utico-kansas-tostado",
+    "name": "Náutico Kansas Tostado",
+    "image": "assets/products/n-utico-kansas-tostado.jpg",
+    "description": "Náutico Kansas Tostado. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "zapatos"
+  },
+  {
+    "id": "pancha-azul-jean",
+    "name": "Pancha Azul Jean",
+    "image": "assets/products/pancha-azul-jean.png",
+    "description": "Pancha Azul Jean. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
+    "category": "zapatillas"
+  }
+]
