@@ -1,3 +1,4 @@
+
 export const CATALOG = [
   {
     "id": "borcego-norvan-roble",
@@ -37,7 +38,7 @@ export const CATALOG = [
     "image": "/assets/products/borcego-negro-milan-con-cierre.jpg",
     "description": "Borcego Negro MILAN con cierre. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
     "category": "borcegos",
-    "price": 62300
+    "price": 65900
   },
   {
     "id": "zapatilla-canamo-estilo-urbano-blanca-gris",
@@ -45,7 +46,7 @@ export const CATALOG = [
     "image": "/assets/products/zapatilla-canamo-estilo-urbano-blanca-gris.png",
     "description": "Zapatilla Norvan Estilo Urbano Blanca-Gris. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
     "category": "zapatillas",
-    "price": 52300
+    "price": 56100
   },
   {
     "id": "dc-negra-cosida-zapatilla-urbana-base-negra",
@@ -61,7 +62,7 @@ export const CATALOG = [
     "image": "/assets/products/londres-negra-cosida-zapatilla-urbana.png",
     "description": "Londres Negra COSIDA Zapatilla URBANA. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
     "category": "zapatillas",
-    "price": 49300
+    "price": 51400
   },
   {
     "id": "combo-nazare-chocolate-tornasolado-cinturon-choco",
@@ -69,7 +70,7 @@ export const CATALOG = [
     "image": "/assets/products/combo-nazare-chocolate-tornasolado-cinturon-choco.jpg",
     "description": "COMBO Nazare Chocolate Tornasolado + CINTURON CHOCO. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
     "category": "zapatos",
-    "price": 65300
+    "price": 79900
   },
   {
     "id": "zapato-nazare-marron-chocolate",
@@ -77,7 +78,7 @@ export const CATALOG = [
     "image": "/assets/products/zapato-nazare-marron-chocolate.jpg",
     "description": "Zapato Nazare MARRON CHOCOLATE. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
     "category": "zapatos",
-    "price": 53200
+    "price": 53900
   },
   {
     "id": "nazare-chocolate-tornasolado",
@@ -85,7 +86,7 @@ export const CATALOG = [
     "image": "/assets/products/nazare-chocolate-tornasolado.jpg",
     "description": "Nazare Chocolate Tornasolado. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
     "category": "zapatos",
-    "price": 53200
+    "price": 53900
   },
   {
     "id": "zapatos-botita-tolhuin-acordonado-negro",
@@ -93,7 +94,7 @@ export const CATALOG = [
     "image": "/assets/products/zapatos-botita-tolhuin-acordonado-negro.jpg",
     "description": "Zapatos Botita Tolhuin Acordonado Negro. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
     "category": "zapatos",
-    "price": 57300
+    "price": 60900
   },
   {
     "id": "zapato-holbox-marron",
@@ -101,7 +102,7 @@ export const CATALOG = [
     "image": "/assets/products/zapato-holbox-marron.jpg",
     "description": "Zapato HolBox Marron. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
     "category": "zapatos",
-    "price": 53200
+    "price": 53900
   },
   {
     "id": "zapato-nazare-negro-base-negra-acordonado",
@@ -109,7 +110,7 @@ export const CATALOG = [
     "image": "/assets/products/zapato-nazare-negro-base-negra-acordonado.jpg",
     "description": "Zapato Nazare Negro Base Negra acordonado. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
     "category": "zapatos",
-    "price": 53200
+    "price": 53900
   },
   {
     "id": "zapatos-botita-tolhuin-acordonado-marron",
@@ -117,7 +118,7 @@ export const CATALOG = [
     "image": "/assets/products/zapatos-botita-tolhuin-acordonado-marron.jpg",
     "description": "Zapatos Botita Tolhuin Acordonado Marron. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
     "category": "zapatos",
-    "price": 57300
+    "price": 60900
   },
   {
     "id": "zapato-nazare-negro",
@@ -125,7 +126,7 @@ export const CATALOG = [
     "image": "/assets/products/zapato-nazare-negro.jpg",
     "description": "Zapato Nazare negro. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
     "category": "zapatos",
-    "price": 53200
+    "price": 53900
   },
   {
     "id": "cinturon-marron-cuero-vacuno-chocolate-p4",
@@ -133,7 +134,7 @@ export const CATALOG = [
     "image": "/assets/products/cinturon-marron-cuero-vacuno-chocolate-p4.jpg",
     "description": "Cinturon Marron Cuero Vacuno Chocolate P4. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
     "category": "accesorios",
-    "price": 24300
+    "price": 37100
   },
   {
     "id": "cinturon-negro-cuero-vacuno",
@@ -141,7 +142,7 @@ export const CATALOG = [
     "image": "/assets/products/cinturon-negro-cuero-vacuno.jpg",
     "description": "Cinturon Negro (Cuero Vacuno). Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
     "category": "accesorios",
-    "price": 24300
+    "price": 37100
   },
   {
     "id": "walker-balance-blanco-gris-zapatilla-urbana",
@@ -149,7 +150,7 @@ export const CATALOG = [
     "image": "/assets/products/walker-balance-blanco-gris-zapatilla-urbana.jpg",
     "description": "Walker Balance Blanco Gris Zapatilla Urbana. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
     "category": "zapatillas",
-    "price": 49300
+    "price": 51400
   },
   {
     "id": "walker-negra-zapatilla-urbana",
@@ -165,7 +166,7 @@ export const CATALOG = [
     "image": "/assets/products/londres-azul-gamuza-zapatilla.png",
     "description": "Londres Azul Gamuza Zapatilla. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
     "category": "zapatillas",
-    "price": 44200
+    "price": 43400
   },
   {
     "id": "zapatillas-londres-blancas",
@@ -173,7 +174,7 @@ export const CATALOG = [
     "image": "/assets/products/zapatillas-londres-blancas.jpg",
     "description": "Zapatillas Londres Blancas. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
     "category": "zapatillas",
-    "price": 49300
+    "price": 51400
   },
   {
     "id": "nautico-kansas-negro-gris-lona",
@@ -181,7 +182,7 @@ export const CATALOG = [
     "image": "/assets/products/nautico-kansas-negro-gris-lona.jpg",
     "description": "Nautico Kansas Negro- Gris Lona. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
     "category": "zapatos",
-    "price": 64200
+    "price": 67600
   },
   {
     "id": "n-utico-kansas-tostado",
@@ -189,7 +190,7 @@ export const CATALOG = [
     "image": "/assets/products/n-utico-kansas-tostado.jpg",
     "description": "Náutico Kansas Tostado. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
     "category": "zapatos",
-    "price": 64200
+    "price": 67600
   },
   {
     "id": "pancha-azul-jean",
@@ -197,7 +198,7 @@ export const CATALOG = [
     "image": "/assets/products/pancha-azul-jean.png",
     "description": "Pancha Azul Jean. Modelo NORVAN de la colección. Consultá disponibilidad y talles.",
     "category": "zapatillas",
-    "price": 49300
+    "price": 51200
   },
   {
     "id": "collar-de-perlas-de-ojo-de-tigre-piedra-natural",
@@ -205,7 +206,7 @@ export const CATALOG = [
     "image": "/assets/products/collar-de-perlas-de-ojo-de-tigre-piedra-natural.jpg",
     "description": "Collar de Perlas de Ojo de Tigre. Accesorio NORVAN. Consultá disponibilidad.",
     "category": "accesorios",
-    "price": 45000
+    "price": 52900
   },
   {
     "id": "combo-x3-collar-acero-quirurgico-piedras-naturales",
@@ -213,7 +214,7 @@ export const CATALOG = [
     "image": "/assets/products/combo-x3-collar-acero-quirurgico-piedras-naturales.jpg",
     "description": "Combo x3 Collar de acero quirúrgico + piedras naturales. Accesorio NORVAN. Consultá disponibilidad.",
     "category": "accesorios",
-    "price": 48500
+    "price": 49700
   },
   {
     "id": "collar-de-citrino-piedra-del-sol",
@@ -221,7 +222,7 @@ export const CATALOG = [
     "image": "/assets/products/collar-de-citrino-piedra-del-sol.jpg",
     "description": "Collar de Citrino (Piedra del sol). Accesorio NORVAN. Consultá disponibilidad.",
     "category": "accesorios",
-    "price": 22500
+    "price": 27800
   },
   {
     "id": "collar-onix-negro",
@@ -229,7 +230,7 @@ export const CATALOG = [
     "image": "/assets/products/collar-onix-negro.jpg",
     "description": "Collar Onix negro. Accesorio NORVAN. Consultá disponibilidad.",
     "category": "accesorios",
-    "price": 22500
+    "price": 27800
   },
   {
     "id": "collar-ojo-de-tigre-intuicion",
@@ -237,7 +238,7 @@ export const CATALOG = [
     "image": "/assets/products/collar-ojo-de-tigre-intuicion.jpg",
     "description": "Collar ojo de tigre (Intuicion). Accesorio NORVAN. Consultá disponibilidad.",
     "category": "accesorios",
-    "price": 22500
+    "price": 27800
   },
   {
     "id": "collar-de-cuarzo-rojo",
@@ -245,7 +246,7 @@ export const CATALOG = [
     "image": "/assets/products/collar-de-cuarzo-rojo.jpg",
     "description": "Collar cuarzo rojo. Accesorio NORVAN. Consultá disponibilidad.",
     "category": "accesorios",
-    "price": 17300
+    "price": 26500
   },
   {
     "id": "pendulo-de-cuarzo-cristal",
@@ -253,7 +254,7 @@ export const CATALOG = [
     "image": "/assets/products/pendulo-de-cuarzo-cristal.jpg",
     "description": "Pendulo de cuarzo cristal. Accesorio NORVAN. Consultá disponibilidad.",
     "category": "accesorios",
-    "price": 19300
+    "price": 27800
   },
   {
     "id": "collar-de-cuarzo-rosa-piedra-del-amor",
@@ -261,7 +262,7 @@ export const CATALOG = [
     "image": "/assets/products/collar-de-cuarzo-rosa-piedra-del-amor.jpg",
     "description": "Collar de cuarzo rosa (Piedra del amor). Accesorio NORVAN. Consultá disponibilidad.",
     "category": "accesorios",
-    "price": 22500
+    "price": 27800
   },
   {
     "id": "collar-de-cuarzo-verde",
@@ -269,7 +270,7 @@ export const CATALOG = [
     "image": "/assets/products/collar-de-cuarzo-verde.jpg",
     "description": "Collar de cuarzo verde. Accesorio NORVAN. Consultá disponibilidad.",
     "category": "accesorios",
-    "price": 17300
+    "price": 26500
   },
   {
     "id": "alpargata-negra-reforzada",
@@ -277,11 +278,45 @@ export const CATALOG = [
     "image": "/assets/products/alpargata-negra-reforzada.jpg",
     "description": "Alpargata negra reforzada. Accesorio NORVAN. Consultá disponibilidad.",
     "category": "accesorios",
-    "price": 17300
+    "price": 26500
+  },
+  {
+    "id": "combo-nazare-negro-cinturon-negro",
+    "name": "COMBO Zapato Nazare Negro + Cinturón Negro",
+    "image": "/assets/products/combo-nazare-negro-cinturon-negro.png",
+    "description": "Combo Zapato Nazare Negro + Cinturón Negro. Consultá disponibilidad y talles.",
+    "category": "zapatos",
+    "price": 79900
+  },
+  {
+    "id": "combo-nazare-marron-chocolate-cinturon-marron",
+    "name": "COMBO Zapato Nazare Marrón Chocolate + Cinturón Marrón Cuero Vacuno",
+    "image": "/assets/products/combo-nazare-marron-chocolate-cinturon-marron.png",
+    "description": "Combo Zapato Nazare Marrón Chocolate + Cinturón Marrón Cuero Vacuno. Consultá disponibilidad y talles.",
+    "category": "zapatos",
+    "price": 79900
+  },
+  {
+    "id": "pancha-norvan-lona-negra",
+    "name": "Pancha NORVAN Lona Negra",
+    "image": "/assets/products/pancha-norvan-lona-negra.png",
+    "description": "Pancha NORVAN Lona Negra. Consultá disponibilidad y talles.",
+    "category": "zapatillas",
+    "price": 51400
+  },
+  {
+    "id": "pancha-norvan-lona-tostado",
+    "name": "Pancha NORVAN Lona Tostado",
+    "image": "/assets/products/pancha-norvan-lona-tostado.png",
+    "description": "Pancha NORVAN Lona Tostado. Consultá disponibilidad y talles.",
+    "category": "zapatillas",
+    "price": 51400
   }
 ];
 
-export const PRODUCTS_BY_ID = Object.fromEntries(CATALOG.map((p) => [p.id, p]));
+export const PRODUCTS_BY_ID = Object.fromEntries(
+  CATALOG.map((p) => [p.id, p])
+);
 
 export const CATEGORY_LABELS = {
   borcegos: "Borcegos",
