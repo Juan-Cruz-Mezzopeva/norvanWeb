@@ -15,6 +15,7 @@ export default function Footer() {
         <div className="footer-col">
           <h3>Ir a</h3>
           <Link to="/#coleccion">Colección</Link>
+          <Link to="/#envios">Envíos</Link>
           <Link to="/#nosotros">Nosotros</Link>
           <Link to="/#contacto">Contacto</Link>
         </div>

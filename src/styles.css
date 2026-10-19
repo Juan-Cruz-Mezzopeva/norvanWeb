@@ -1495,3 +1495,16 @@ ul {
 .cart-customer .field input {
   padding: 0.45rem 0;
 }
+/* Ajustes exclusivos de la sección de envíos */
+.shipping-section {
+  padding-top: 55px;
+  padding-bottom: 55px;
+}
+
+.shipping-section .section-copy {
+  font-size: 16px;
+  line-height: 1.7;
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+}
